@@ -1,0 +1,311 @@
+* {
+    box-sizing: content-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {background-color: white;}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #31343e;
+    color: #31343e;
+    
+    
+    
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+    background-color: #966F33;
+    margin-right: 25px;
+
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+    text-decoration: underline;
+    color: aqua;
+    
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.Fence {
+    height: 300px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../Images/joshua-hoehne-aBgxd8IZ0jo-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.Cool {
+    display: inline-block;
+    font-size: 48px;
+    background-color: #966F33;
+    color: #31343e;
+    position: relative;
+    top: 230px;
+    left: 82%;
+}
+
+#about-me {
+    color: #966134;
+    font-size: 45px;
+    position: relative;
+    top: 10px;
+    left: 5%;
+      
+
+}
+ 
+.Lorem {
+    position: absolute;
+    top: 440px;
+    left: 360px;
+    border-left: 4px solid #966134;
+    padding-left: 60px;
+    text-align: justify;
+    
+    
+}
+
+#work {
+    color: #966134;
+    margin: 10%;
+    font-size: 45px;
+    position: relative;
+    top : 5px;
+    right: 5%;
+    width: 9.2%;
+    height: 900px;
+    border-right: 4px #966134 solid;
+    
+}
+
+.box {
+ width: 2100px;
+  border: 2px #966134 solid;
+ margin: 20px auto;
+ background-image: url(https://images.squarespace-cdn.com/content/v1/59e5a696f43b5528bc1e3b24/1541916407898-PLYEN8PETDJB3R3E0035/DSC_8590+copy-2.jpeg?format=1000w);
+ height: 400px;
+ position: absolute;
+ top: 710px;
+ right: 10px;
+ background-color: gray;
+ 
+}
+
+.box2 {
+ width: 200px;
+  border: 2px #966134 solid;
+ margin: 10px auto;
+ height: 50px;
+ position: absolute;
+ bottom: 1px;
+ background-color: #966134;
+
+}
+.p {
+    position: absolute;
+    bottom: 15px; 
+
+}
+
+.Box3 {
+ width: 1050px;
+ height: 600px;
+ border: 2px #966134 solid;
+ margin: 20px auto;
+ height: 200px;
+ position: absolute;
+ top: 1150px;
+ left: 430px;
+ background-color: gray;
+ background-image: url(https://media.istockphoto.com/vectors/texture-screen-digital-video-wall-background-vector-blue-led-tv-dot-vector-id1139897714?s=612x612)
+ 
+}
+
+.box4 {
+    width: 200px;
+     border: 2px #966134 solid;
+    margin: 10px auto;
+    height: 50px;
+    position: absolute;
+    bottom: 1px;
+    background-color: #966134;
+    
+   
+   }
+.p1 {
+       position: absolute;
+       bottom: 15px; 
+   
+}
+
+.box55 {
+    width: 1050px;
+    height: 600px;
+    border: 2px #966134 solid;
+    margin: 20px auto;
+    height: 200px;
+    position: absolute;
+    top: 1390px;
+    left: 430px;
+    background-color: gray;
+    background-image:url(https://i.etsystatic.com/31715137/r/il/7e0eda/3454488298/il_1588xN.3454488298_254v.jpg)
+   }
+   
+.box5 {
+    width: 200px;
+    border: 2px #966134 solid;
+    margin: 10px auto;
+    height: 50px;
+    position: absolute;
+    bottom: 1px;
+    background-color: #966134;
+      
+    }
+
+.p2 {
+    position: absolute;
+    bottom: 15px; 
+    
+}
+   
+.box66 {
+    width: 1050px;
+    height: 600px;
+    border: 2px #966134 solid;
+    margin: 20px auto;
+    height: 200px;
+    position: absolute;
+    top: 1390px;
+    right: 1px;
+    background-color: gray;
+    background-image: url(https://www.afscmetreasurer.org/sites/default/files/styles/panopoly_image_original/public/article/featured/calculator-1680905_1920.jpg?itok=hOYRKfJt)
+}
+       
+.box6 {
+    width: 200px;
+    border: 2px #966134 solid;
+    margin: 10px auto;
+    height: 50px;
+    position: absolute;
+    bottom: 1px;
+    background-color: #966134;
+          
+}
+    
+.p3 {
+    position: absolute;
+    bottom: 15px; 
+        
+}
+
+.box77 {
+    width: 1050px;
+    height: 600px;
+    border: 2px #966134 solid;
+    margin: 20px auto;
+    height: 200px;
+    position: absolute;
+    top: 1150px;
+    right: 1px;
+    background-color: gray;
+    background-image: url("./Assets/LED WALL.jpg");
+ }
+           
+.box7 {
+    width: 200px;
+    border: 2px #966134 solid;
+    margin: 10px auto;
+    height: 50px;
+    position: absolute;
+    bottom: 1px;
+    background-color: #966134;
+              
+}
+        
+.p4 {
+    position: absolute;
+    bottom: 15px; 
+            
+}
+
+
+#Contact-me {
+    color: #966134;
+    margin: 10%;
+    font-size: 45px;
+    position: relative;
+    top : 5px;
+    right: 5%;
+    width: 9.2%;
+    height: 100px;
+    border-right: 4px #966134 solid;
+
+}
+
+.cont {
+    display: inline-block;
+    margin-left: 1125px;
+    position: relative;
+    bottom: 320px;
+    
+}
+
+footer div ul  {
+    list-style-type: none;
+    
+    
+
+}
+
+footer div ul li {
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: underline;
+    color: #966134;
+    font-size: 50px;
+}
+   
+
+@media screen and (maX-width:992px){
+    header{
+        background: gray;
+    }
+    
+}
+  
+media screen and (maX-width:768px){
+    nav{
+        background: gray;
+    }
+}
+
+
+
+
+
+    
+
